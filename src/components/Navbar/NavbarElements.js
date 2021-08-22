@@ -51,7 +51,7 @@ export const NavLogo = styled(ScrollLink)`
     font-size: 2.2rem;
     font-weight: 900;
     text-transform: uppercase;
-    font-family: 'Teko', sans-serif;
+    font-family: 'Poppins', sans-serif;
 `;
 
 export const MobileMenu = styled.div`
