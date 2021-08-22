@@ -3,8 +3,8 @@ import Navbar from "../components/Navbar";
 import Sidebar from "../components/Sidebar";
 import HeroSection from "../components/HeroSection";
 import About from "../components/AboutSection";
-// import Products from "../components/ProductsSection";
-// import Footer from "../components/Footer";
+import Products from "../components/ProductsSection";
+import Footer from "../components/Footer";
 
 const Home = () => {
     //States & Functions
@@ -19,8 +19,8 @@ const Home = () => {
             <Sidebar isOpen={isOpen} toggleMenu={toggleMenu} />
             <HeroSection />
             <About />
-            {/* <Products />
-            <Footer /> */}
+            <Products />
+            <Footer />
         </>
     )
 }
