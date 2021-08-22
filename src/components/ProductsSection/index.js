@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import {ProductsContainer, 
         ProductsWrapper,
         ProductsH1,
@@ -14,7 +14,6 @@ import accessories from "../../images/accessories.jpg";
 import { BsArrowRight } from "react-icons/bs";
 import Aos from "aos";
 import "aos/dist/aos.css";
-import { useEffect } from "react/cjs/react.development";
 
 const Products = () => {
     //Animate on Scroll

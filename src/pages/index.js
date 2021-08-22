@@ -4,7 +4,7 @@ import Sidebar from "../components/Sidebar";
 import HeroSection from "../components/HeroSection";
 import About from "../components/AboutSection";
 import Products from "../components/ProductsSection";
-import Footer from "../components/Footer";
+// import Footer from "../components/Footer";
 
 const Home = () => {
     //States & Functions
@@ -20,7 +20,7 @@ const Home = () => {
             <HeroSection />
             <About />
             <Products />
-            <Footer />
+            {/* <Footer /> */}
         </>
     )
 }
