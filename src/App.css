@@ -1,38 +1,63 @@
-.App {
-  text-align: center;
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: "Poppins", sans-serif;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.highlightedText {
+  background-image: linear-gradient(to right, #f195ac, #00a8ff);
+  background-clip: text;
+  text-fill-color: transparent;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+.about-img {
+  width: 100%;
+  height: auto;
+  border-radius: 20px;
+  box-shadow: 1px 1px 2px #0b0b0b;
+}
+
+.blob {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 50%;
+  z-index: 0;
+  overflow: hidden;
+  opacity: 0.8;
+}
+
+@media screen and (max-width: 620px) {
+  .blob {
+    width: 70%;
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+@media screen and (max-width: 500px) {
+  .blob {
+    width: 90%;
+    top: 10%;
+  }
 }
 
-.App-link {
-  color: #61dafb;
+@media screen and (max-width: 415px) {
+  .blob {
+    width: 70%;
+  }
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+@media screen and (max-width: 380px) {
+  .blob {
+    width: 120%;
+    top: -17%;
   }
-  to {
-    transform: rotate(360deg);
-  }
+}
+
+.products {
+  width: 100%;
+  height: 225px;
+  border-radius: 10px;
 }
