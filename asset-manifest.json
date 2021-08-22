@@ -1,30 +1,29 @@
 {
   "files": {
     "main.css": "/dailydopelanding/static/css/main.173b1e1c.chunk.css",
-    "main.js": "/dailydopelanding/static/js/main.7a77f236.chunk.js",
-    "main.js.map": "/dailydopelanding/static/js/main.7a77f236.chunk.js.map",
+    "main.js": "/dailydopelanding/static/js/main.98aa3eb9.chunk.js",
+    "main.js.map": "/dailydopelanding/static/js/main.98aa3eb9.chunk.js.map",
     "runtime-main.js": "/dailydopelanding/static/js/runtime-main.6f9cdfdf.js",
     "runtime-main.js.map": "/dailydopelanding/static/js/runtime-main.6f9cdfdf.js.map",
     "static/css/2.7fc9bc2b.chunk.css": "/dailydopelanding/static/css/2.7fc9bc2b.chunk.css",
-    "static/js/2.d9c2ae57.chunk.js": "/dailydopelanding/static/js/2.d9c2ae57.chunk.js",
-    "static/js/2.d9c2ae57.chunk.js.map": "/dailydopelanding/static/js/2.d9c2ae57.chunk.js.map",
+    "static/js/2.4437203a.chunk.js": "/dailydopelanding/static/js/2.4437203a.chunk.js",
+    "static/js/2.4437203a.chunk.js.map": "/dailydopelanding/static/js/2.4437203a.chunk.js.map",
     "index.html": "/dailydopelanding/index.html",
     "static/css/2.7fc9bc2b.chunk.css.map": "/dailydopelanding/static/css/2.7fc9bc2b.chunk.css.map",
     "static/css/main.173b1e1c.chunk.css.map": "/dailydopelanding/static/css/main.173b1e1c.chunk.css.map",
-    "static/js/2.d9c2ae57.chunk.js.LICENSE.txt": "/dailydopelanding/static/js/2.d9c2ae57.chunk.js.LICENSE.txt",
+    "static/js/2.4437203a.chunk.js.LICENSE.txt": "/dailydopelanding/static/js/2.4437203a.chunk.js.LICENSE.txt",
     "static/media/aboutImg.4e2e3137.jpg": "/dailydopelanding/static/media/aboutImg.4e2e3137.jpg",
     "static/media/accessories.8f586351.jpg": "/dailydopelanding/static/media/accessories.8f586351.jpg",
     "static/media/bg.fe746a86.jpg": "/dailydopelanding/static/media/bg.fe746a86.jpg",
     "static/media/blob.19b66412.svg": "/dailydopelanding/static/media/blob.19b66412.svg",
     "static/media/cali g.8a89db36.jpg": "/dailydopelanding/static/media/cali g.8a89db36.jpg",
-    "static/media/e juice.f2c65292.jpg": "/dailydopelanding/static/media/e juice.f2c65292.jpg",
-    "static/media/shopee.8dd91e69.svg": "/dailydopelanding/static/media/shopee.8dd91e69.svg"
+    "static/media/e juice.f2c65292.jpg": "/dailydopelanding/static/media/e juice.f2c65292.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.6f9cdfdf.js",
     "static/css/2.7fc9bc2b.chunk.css",
-    "static/js/2.d9c2ae57.chunk.js",
+    "static/js/2.4437203a.chunk.js",
     "static/css/main.173b1e1c.chunk.css",
-    "static/js/main.7a77f236.chunk.js"
+    "static/js/main.98aa3eb9.chunk.js"
   ]
 }
