@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const AboutContainer = styled.section`
-    background-image: linear-gradient(135deg, #2e1c20, #001824);
+    background-image: linear-gradient(135deg, #011c29, #331f23);
     height: 42em;
 
     @media screen and (max-width: 380px) {

@@ -3,7 +3,7 @@ import styled from "styled-components";
 export const ProductsContainer = styled.section`
     width: 100%;
     height: 42em;
-    background-image: linear-gradient(135deg, #001824, #2e1c20);
+    background-image: linear-gradient(135deg, #011c29, #331f23);
 
     @media screen and (max-width: 820px) {
         height: auto;
