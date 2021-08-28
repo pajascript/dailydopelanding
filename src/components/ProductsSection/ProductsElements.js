@@ -20,6 +20,7 @@ export const ProductsWrapper = styled.div`
     justify-content: center;
     align-items: center;
     gap: 35px;
+    padding-inline: 10px;
 
     @media screen and (max-width: 820px) {
         padding-block: 60px;

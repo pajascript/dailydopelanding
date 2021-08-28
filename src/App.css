@@ -5,6 +5,10 @@
   font-family: "Poppins", sans-serif;
 }
 
+body {
+  overflow-x: hidden;
+}
+
 .highlightedText {
   background-image: linear-gradient(to right, #f195ac, #00a8ff);
   background-clip: text;
