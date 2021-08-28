@@ -32,6 +32,7 @@ export const ProductsH1 = styled.h1`
     font-size: 3rem;
     line-height: 2.6rem;
     z-index: 10;
+    text-align: center;
 
     @media screen and (max-width: 510px) {
         font-size: 2rem;

@@ -8,7 +8,8 @@ import {FooterContainer,
         TermsOfUse,
         FooterCopyright
         } from "./FooterElements";
-import { FaFacebookSquare, FaInstagram } from "react-icons/fa";
+import { FaFacebookSquare } from "react-icons/fa";
+import { RiInstagramFill } from "react-icons/ri";
 import shopee from "../../images/shopee.svg";
 
 const Footer = () => {
@@ -17,7 +18,7 @@ const Footer = () => {
             <FooterWrapper>
                 <SocMeds>
                     <FaFacebookSquare />
-                    <FaInstagram />
+                    <RiInstagramFill />
                     <Logo src={shopee} alt="Shopee Logo" />
                 </SocMeds>
                 <FooterInfo>
